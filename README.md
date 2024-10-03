@@ -22,6 +22,8 @@ The main goal of this project is to build an LLM-based document extraction tool.
 
 ## Getting Started
 
+[Link to the docker hub streamlit app](https://hub.docker.com/repository/docker/vsanchezn/streamlit-app/general)
+
 1. **Install Docker**: First, ensure Docker is installed on your computer. You can download and install it from the official [Docker website](https://www.docker.com/).
 
 2. **Pull the Docker Image**: Open your terminal and run this command to get the app:
