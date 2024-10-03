@@ -5,7 +5,10 @@ This project aims to extract relevant information from documents using Large Lan
 ## Demo Video
 
 You can find a small demonstration of the Streamlit app implementation of this project:  
-https://github.com/user-attachments/assets/d38a2bd9-67e3-4f2a-bd66-3c6ce04156ef
+
+
+https://github.com/user-attachments/assets/47506049-d56d-46b3-b3f9-efa65449c719
+
 
 ## Project Overview
 
