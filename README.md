@@ -29,13 +29,13 @@ The main goal of this project is to build an LLM-based document extraction tool.
 2. **Pull the Docker Image**: Open your terminal and run this command to get the app:
 
    ```bash
-   docker pull your_dockerhub_username/streamlit-app
+   docker pull vsanchezn/streamlit-app
    ```
 
 3. **Run the App**: Start the app by running:
 
    ```bash
-   docker run -p 8501:8501 your_dockerhub_username/streamlit-app
+   docker run -p 8501:8501 vsanchezn/streamlit-app
    ```
 
    This will launch the app on port `8501`.
@@ -48,4 +48,4 @@ The main goal of this project is to build an LLM-based document extraction tool.
    docker stop <container_id>
    ```
 
-   Replace `your_dockerhub_username` with the actual username you used to upload the Docker image.
+   Replace `vsanchezn` with the actual username you used to upload the Docker image.
